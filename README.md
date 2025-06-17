@@ -1,8 +1,15 @@
-# Backend MERN - Calendar
+# Calendar App Backend
 
-## Development
+## Getting Started
 
-1. Instalar dependencias `npm install`
-2. Clonar el archivo `.env.template` y renombrarlo a `.env`
-3. Cambiar las variables de entorno acorde a tu configuración
-4. Correr el servidor `npm start`
+### Prerequisites
+
+-   Node.js
+-   NPM
+
+### Installation
+
+1. Clone the repository
+2. Run `npm install` to install the dependencies
+3. Modify the `.env.template` file to match your environment and rename it to `.env`
+4. Run `npm run dev` to start the development server
